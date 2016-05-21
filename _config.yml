@@ -1,0 +1,14 @@
+layout_spectrum: 0.4426523
+color:
+  saturation: 0.2344584
+  lightness: 0.1639916
+  brandStrength: 0.718638
+  brandColors:
+    - '#191919'
+    - '#FFFFFF'
+    - '#A6A6A6'
+    - '#00436F'
+    - '#186BA0'
+  rhythmicContrast: 0.730743
+typography_spectrum: 0.762277
+name: Ci
